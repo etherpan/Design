@@ -18,3 +18,5 @@ https://nemesisdao.finance/
 ## presale
  https://10mb.finance/presale
  https://protonprotocol.finance/#/
+## other
+ https://www.neurochain.ai/
