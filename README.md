@@ -20,3 +20,7 @@ https://nemesisdao.finance/
  https://protonprotocol.finance/#/
 ## other
  https://www.neurochain.ai/
+ 
+## gmx 
+https://app.rollup.finance/#/trade
+ZkSync
