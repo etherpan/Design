@@ -2,6 +2,7 @@
 This is figma design url
 ## landing page
 https://www.figma.com/file/xgPtxK66tRzvraV8l7JIJD/SABLE-COIN-WEBSITE?node-id=1%3A2
+http://wixchain.io/
 ## Dex
 https://www.figma.com/proto/hSGEecInOqhHygcQFls8rb/MT-INDEX?node-id=64%3A121&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=64%3A121&show-proto-sidebar=1</br>
 https://docs.google.com/document/d/1YZ7B7ZxMfOAUDHuDCqkoWPeM17pIPNtevLLepjpp8N0/edit </br>
